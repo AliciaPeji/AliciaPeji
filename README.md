@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AliciaPeji
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning PHP language
-- 💞️ I’m looking to collaborate on IDK RLLY
 - 📫 How to reach me pejialicia96@gmail.com
 
 <!---
